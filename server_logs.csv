@@ -1,0 +1,13 @@
+Timestamp,IP_Address,Request_Method,Endpoint,Status_Code,Response_Size_Bytes,User_Agent
+2026-01-16 10:00:01,192.168.1.105,GET,/home,200,1024,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-01-16 10:00:05,192.168.1.105,GET,/about,200,512,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-01-16 10:02:12,10.0.0.15,POST,/login,200,128,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+2026-01-16 10:05:00,45.22.19.11,GET,/admin,403,0,Python-urllib/3.8
+2026-01-16 10:05:01,45.22.19.11,GET,/dashboard,403,0,Python-urllib/3.8
+2026-01-16 10:05:02,45.22.19.11,GET,/config,404,0,Python-urllib/3.8
+2026-01-16 10:10:45,192.168.1.105,GET,/contact,200,800,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+2026-01-16 10:15:20,203.0.113.55,POST,/login,401,24,Mozilla/5.0 (Linux; Android 10)
+2026-01-16 10:15:21,203.0.113.55,POST,/login,401,24,Mozilla/5.0 (Linux; Android 10)
+2026-01-16 10:15:23,203.0.113.55,POST,/login,401,24,Mozilla/5.0 (Linux; Android 10)
+2026-01-16 10:15:25,203.0.113.55,POST,/login,200,450,Mozilla/5.0 (Linux; Android 10)
+2026-01-16 10:20:00,192.168.1.105,GET,/images/logo.png,200,2048,Mozilla/5.0 (Windows NT 10.0; Win64; x64)
